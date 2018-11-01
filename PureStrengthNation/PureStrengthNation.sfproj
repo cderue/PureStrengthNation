@@ -32,6 +32,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\HelloWorld.Mvc\HelloWorld.Mvc.csproj" />
     <ProjectReference Include="..\HelloWorld\HelloWorld.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />

@@ -7,6 +7,8 @@ Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "PureStrengthNation", "PureS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{B867FBC3-864C-4EE0-9B30-BBF7B8C61628}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Mvc", "HelloWorld.Mvc\HelloWorld.Mvc.csproj", "{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{B867FBC3-864C-4EE0-9B30-BBF7B8C61628}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B867FBC3-864C-4EE0-9B30-BBF7B8C61628}.Release|x64.ActiveCfg = Release|Any CPU
 		{B867FBC3-864C-4EE0-9B30-BBF7B8C61628}.Release|x64.Build.0 = Release|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Debug|x64.Build.0 = Debug|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Release|x64.ActiveCfg = Release|Any CPU
+		{0CDF5E40-8714-431D-BBDD-B5DCF39114E3}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
